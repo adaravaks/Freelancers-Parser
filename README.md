@@ -17,4 +17,4 @@ For each freelancer, I have found:
 - Portfolio projects (if they exist)
 - Selected tags
 
-Then I filled all this into a json file, which turned out to be 46 thousand lines long (from just 100 pages! all of them would take about 2 mil. lines). By the way, I myself am betwween lines 9436 and 9454.
+Then I filled all this into a json file, which turned out to be 46 thousand lines long (from just 100 pages! all of them would take about 2 mil. lines). By the way, I myself am between lines 9435 and 9454.
